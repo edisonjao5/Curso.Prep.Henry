@@ -1,0 +1,31 @@
+body {
+    background-image: url(/homework/mountain.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+div {
+    text-align: center;
+}
+
+h1 {
+    color: #421b02;
+}
+
+img {
+    width: 400px;
+}
+
+#thirDiv {
+    height: 600px;
+    width: 500px;
+    background-color: #ff8855;;
+    padding: 50px;
+    border: 5px dashed solid #c45455;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
